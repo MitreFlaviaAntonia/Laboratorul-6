@@ -13,7 +13,7 @@ int main()
 {
     printf("Write the source string: \n");
     gets(first_array);
-    printf("Write the source string: \n");
+    printf("Write the destination string: \n");
     gets(second_array);
     ptr=strcat_pointer(dest,src);
     printf("The destination string after using the function is: \n");
